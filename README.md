@@ -48,4 +48,4 @@ Node.js      16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 
-![Snake animation](https://github.com/ThalisonSILVA/ThalisonSILVA/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thalisonsilva/thalisonsilva/blob/output/github-contribution-grid-snake.svg)
