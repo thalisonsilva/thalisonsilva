@@ -24,10 +24,6 @@ Node.js      16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:thalison-->
 
-<div>
-<img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=thalisonsilva&show_icons=true&theme=gotham" alt="jeefelix" />
-<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact&langs_count=5&theme=gotham"/>
-<div/>
 
 <div align="center">
  
