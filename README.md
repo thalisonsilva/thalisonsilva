@@ -28,24 +28,22 @@ Node.js      16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
  Find me:
 </p>
 
-<div align="center">
+<div align="">
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalison-moreira/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thalisonMp)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/thalism_)
-[![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](a)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalison-moreira/)
+   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thalisonMp)
+   [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/thalism_)
+   [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](a)
  
-
-
- <div style="">
-    
-   <div align='center'>
-<a height="150em" href="https://github.com/thalisonsilva">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thalisonsilva&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
+<p align="center" >
  
- </div>
-
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact&theme=chartreuse-dark"/>
+  
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thalisonsilva&theme=chartreuse-dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+  <br/>
+</p>
+ 
 
 
 
