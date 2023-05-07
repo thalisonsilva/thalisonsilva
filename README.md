@@ -1,4 +1,4 @@
-<h4>Hi, i'm Thalison ;)</h4>
+ <h4>Hi, i'm Thalison ;)</h4>
 
 
 
@@ -25,10 +25,9 @@ Node.js      16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:thalison-->
 
 <p align="left">
- Find me:
 </p>
 
-<div align="">
+<div align="center">
  
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalison-moreira/)
    [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thalisonMp)
@@ -36,13 +35,12 @@ Node.js      16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
    [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](a)
  
 </div>
+<div>
 <p align="center" >
- 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact&theme=chartreuse-dark"/>
-  
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thalisonsilva&theme=chartreuse-dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
-  <br/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=thalisonsilva&theme=chartreuse-dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+
 </p>
+</div>
  
 
 
