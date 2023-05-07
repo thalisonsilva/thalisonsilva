@@ -25,7 +25,7 @@ Node.js      16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:thalison-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalisonsilva&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact)](https://github.com/thalisonsilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact=true&theme=transparent)](https://github.com/thalisonsilva/github-readme-stats)
 
 <h3>Main skills:</h3>
   <div>
