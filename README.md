@@ -4,11 +4,13 @@
 
 
 ###
-<p><em> Software developer working with back-end development, using mainly Golang and Javascript in my projects. I'm currently studying Java and node.js.
+<p><em> Desenvolvedor de software com experiência em desenvolvimento back-end, utilizando Golang e JavaScript para criar soluções eficientes e escaláveis. Sou proficiente em HTML, CSS, Node.js, React e também possuo habilidades em web design, utilizando ferramentas como Figma e pacotes Adobe.
 
-I'm always looking for new learning and willing to help anyone interested in starting in the development area. I like to work in a team because I learn a lot from others too.
+Estou constantemente em busca de aprimorar minhas habilidades técnicas e adquirir novos conhecimentos. Sou apaixonado por colaborar em equipes, pois acredito que o trabalho em conjunto proporciona um ambiente de aprendizado enriquecedor. Se você está começando na área de desenvolvimento, sinta-se à vontade para entrar em contato, estou sempre disposto a ajudar e compartilhar minha experiência.
 
-Graduated in System Analysis and Development at UCB/DF.</em></p>
+Graduado em Análise e Desenvolvimento de Sistemas pela UCB/DF.
+
+Contato: contato.thalison@outlook.com.</em></p>
 
 
 <!--START_SECTION:thalisonsilva-->
