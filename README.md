@@ -14,8 +14,8 @@ Contato: contato.thalison@outlook.com.</em></p>
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalisonsilva&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact&theme=radical)](https://github.com/thalisonsilva/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalisonsilva&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact&theme=highcontrast)](https://github.com/thalisonsilva/github-readme-stats)
 
 
 <h3>Main skills:</h3>
