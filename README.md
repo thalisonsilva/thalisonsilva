@@ -12,20 +12,6 @@ Graduado em Análise e Desenvolvimento de Sistemas pela UCB/DF.
 
 Contato: contato.thalison@outlook.com.</em></p>
 
-
-<!--START_SECTION:thalisonsilva-->
-
-```text
-Total Time: 37 hrs 28 mins
-
-Golang       28 hrs 25 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀   72.44 %
-Javascript   18 hr 1 min     ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.31 %
-Java         28 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.56 %
-Node.js      16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.90 %
-```
-
-<!--END_SECTION:thalison-->
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalisonsilva&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact=true&theme=transparent)](https://github.com/thalisonsilva/github-readme-stats)
 
