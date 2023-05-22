@@ -12,6 +12,8 @@ Graduado em Análise e Desenvolvimento de Sistemas pela UCB/DF.
 
 Contato: contato.thalison@outlook.com.</em></p>
 
+<hr>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalisonsilva&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact=true&theme=transparent)](https://github.com/thalisonsilva/github-readme-stats)
 
