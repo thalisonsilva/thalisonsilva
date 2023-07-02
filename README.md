@@ -10,7 +10,7 @@ Estou constantemente em busca de aprimorar minhas habilidades técnicas e adquir
 
 Graduado em Análise e Desenvolvimento de Sistemas pela UCB/DF.
 
-Contato: contato.thalison@outlook.com.</em></p>
+Contato: contato@thalisonsilva.com.br</em></p>
 
 <hr>
 
