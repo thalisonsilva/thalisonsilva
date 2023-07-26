@@ -4,13 +4,14 @@
 
 
 ###
-<p><em> Desenvolvedor de software com experiência em desenvolvimento back-end, utilizando Golang e JavaScript para criar soluções eficientes e escaláveis. Sou proficiente em HTML, CSS, Node.js, React e também possuo habilidades em web design, utilizando ferramentas como Figma e pacotes Adobe.
+<p><em>
+Software developer with experience in back-end development, using Golang and JavaScript to create efficient and scalable solutions. I am proficient in HTML, CSS, Node.js, React and also have web design skills, using tools like Figma and Adobe packages.
 
-Estou constantemente em busca de aprimorar minhas habilidades técnicas e adquirir novos conhecimentos. Sou apaixonado por colaborar em equipes, pois acredito que o trabalho em conjunto proporciona um ambiente de aprendizado enriquecedor. Se você está começando na área de desenvolvimento, sinta-se à vontade para entrar em contato, estou sempre disposto a ajudar e compartilhar minha experiência.
+I am constantly looking to improve my technical skills and acquire new knowledge. I am passionate about collaborating in teams, as I believe that working together provides an enriching learning environment. If you're starting out in development, feel free to get in touch, I'm always willing to help and share my experience.
 
-Graduado em Análise e Desenvolvimento de Sistemas pela UCB/DF.
+Graduated in Systems Analysis and Development from UCB/DF.
 
-Contato: contato@thalisonsilva.com.br</em></p>
+Contact: contato@thalisonsilva.com.br</em></p>
 
 <hr>
 
