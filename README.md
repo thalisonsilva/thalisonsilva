@@ -1,4 +1,4 @@
- <h4>Hi, i'm Thalison ;)</h4>
+ <h2>Hi, i'm Thalison ;)</h2>
 
 
 
