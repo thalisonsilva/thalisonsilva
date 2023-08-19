@@ -19,6 +19,7 @@ Contact: contato@thalisonsilva.com.br</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact&theme=highcontrast)](https://github.com/thalisonsilva/github-readme-stats)
 
 
+
 <h3>Main skills:</h3>
   <div>
      <img src= "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -47,6 +48,8 @@ Contact: contato@thalisonsilva.com.br</p>
    [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](a)
  
 </div>
-
+<div align="a">
+<a href="https://app.daily.dev/backend"><img src="https://api.daily.dev/devcards/96ecb98e02554f499e6c878d8ae1e0b5.png?r=qm5" width="400" alt="devthalison's Dev Card"/></a>
+</div>
 
 
