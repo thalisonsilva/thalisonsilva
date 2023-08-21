@@ -42,9 +42,4 @@ Contact: contato@thalisonsilva.com.br</p>
    [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/thalism_)
    [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](a)
  
-</div>
-<div align="a">
-<a href="https://app.daily.dev/backend"><img src="https://api.daily.dev/devcards/96ecb98e02554f499e6c878d8ae1e0b5.png?r=qm5" width="400" alt="devthalison's Dev Card"/></a>
-</div>
-
 
