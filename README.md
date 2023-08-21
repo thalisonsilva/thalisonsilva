@@ -15,11 +15,6 @@ Contact: contato@thalisonsilva.com.br</p>
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalisonsilva&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact&theme=highcontrast)](https://github.com/thalisonsilva/github-readme-stats)
-
-
-
 <h3>Main skills:</h3>
   <div>
      <img src= "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
