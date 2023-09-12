@@ -24,4 +24,4 @@ Contact: contato@thalisonsilva.com.br</p>
    [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/thalism_)
    [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](a)
  
-![snake gif](https://github.com/thalisonsilva/thalisonsilva/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/thalisonsilva/thalisonsilva//blob/output/github-contribution-grid-snake.svg)
