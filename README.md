@@ -5,7 +5,7 @@
 
 ###
 <p>
-Software developer with experience in back-end development, using Golang and JavaScript with Node.js to create efficient and scalable solutions. I am proficient in HTML, CSS, React and also have web design skills, using tools like Figma and Adobe packages.
+Software developer with experience in back-end development, using Golang and Node.js to create efficient and scalable solutions. I am proficient in HTML, CSS, React and also have web design skills, using tools like Figma and Adobe packages.
 
 I am constantly looking to improve my technical skills and acquire new knowledge. I am passionate about collaborating in teams, as I believe that working together provides an enriching learning environment. If you're starting out in development, feel free to get in touch, I'm always willing to help and share my experience.
 
