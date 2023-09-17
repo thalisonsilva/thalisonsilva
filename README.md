@@ -4,13 +4,17 @@
 
 ###
 <p>
-Software developer with experience in back-end development, using Golang and Node.js to create efficient and scalable solutions. I am proficient in HTML, CSS, React and also have web design skills, using tools like Figma and Adobe packages.
+I am a Software Developer with a strong background in back-end development, specializing in Golang and 
+Node.js. My professional journey has been dedicated to crafting efficient and scalable solutions that drive technological excellence.
 
-I am constantly looking to improve my technical skills and acquire new knowledge. I am passionate about collaborating in teams, as I believe that working together provides an enriching learning environment. If you're starting out in development, feel free to get in touch, I'm always willing to help and share my experience.
+My skills encompass proficiency in HTML, CSS, and React, enabling me not only to build robust systems but also to design engaging and functional user interfaces. Furthermore, I am adept in AWS.
 
-Graduated in Software Engineering from UCB/DF.
+My passion for continuous learning motivates me to constantly seek new knowledge and refine my technical abilities. I believe that teamwork is fundamental to success, and I am always eager to contribute and share my expertise with colleagues and newcomers in the field.
 
-Contact: contato@thalisonsilva.com.br</p>
+I hold a degree in Software Engineering from UCB/DF, which has solidified my academic foundation and prepared me to tackle complex challenges in the technology industry.
+
+Contact: contato@thalisonsilva.com.br
+</p>
 
 <hr>
 
