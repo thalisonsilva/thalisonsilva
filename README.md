@@ -20,7 +20,7 @@ Contact: contato@thalisonsilva.com.br
 
 ## Ferramentas e Tecnologias
 <div>
-<img src="https://skillicons.dev/icons?i=go,nodejs,js,java,aws,mysql,docker,spring" />       
+<img src="https://skillicons.dev/icons?i=go,nodejs,js,java,spring,aws,mysql,docker" />       
 </div>
 
 <br>
