@@ -10,8 +10,8 @@ Node.js. My professional journey has been dedicated to crafting efficient and sc
 My skills encompass proficiency in HTML, CSS, and React, enabling me not only to build robust systems but also to design engaging and functional user interfaces. Furthermore, I am adept in AWS.
 
 My passion for continuous learning motivates me to constantly seek new knowledge and refine my technical abilities. I believe that teamwork is fundamental to success, and I am always eager to contribute and share my expertise with colleagues and newcomers in the field.
-
-I hold a degree in Software Engineering from UCB/DF, which has solidified my academic foundation and prepared me to tackle complex challenges in the technology industry.
+1
+I hold a degree in Software Engineering from UCB/DF, which has solidified my academic foundation and prepared me to tackle complex challenges in the technology industry!
 
 Contact: contato@thalisonsilva.com.br
 </p>
