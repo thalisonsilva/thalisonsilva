@@ -1,8 +1,8 @@
 # Hi There! 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://https://www.linkedin.com/in/thalison-moreira/)
-![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.thalisonsilva.com.br/)
-![Gmail Badge](https://img.shields.io/badge/-contato@thalisonsilva.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@thalisonsilva.com.br)
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthalison-moreira%2F?style=linkedin&label=LinkedIn&color=%09%230000CD&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthalison-moreira%2F)
+![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white=LinkedIn&color=%09%230000CD&link=https://www.thalisonsilva.com.br/)
+![Gmail Badge](https://img.shields.io/badge/-contato@thalisonsilva.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white=LinkedIn&color=%09%230000CD&link=mailto:contato@thalisonsilva.com.br)
 ###
 
 ## My name is Thalison 
