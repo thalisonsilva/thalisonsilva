@@ -1,47 +1,26 @@
 # Hi There! 👋
-## My name is Thalison 
 
-
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/thalison-moreira/)
+![Gmail Badge](https://img.shields.io/badge/-contato@thalisonsilva.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.kip)
+![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.thalisonsilva.com.br/)
 ###
-<p>
-I am a Software Developer with a strong background in back-end development, specializing in Golang and 
-Node.js. My professional journey has been dedicated to crafting efficient and scalable solutions that drive technological excellence.
 
-My skills encompass proficiency in HTML, CSS, and React, enabling me not only to build robust systems but also to design engaging and functional user interfaces. Furthermore, I am adept in AWS.
-
-My passion for continuous learning motivates me to constantly seek new knowledge and refine my technical abilities. I believe that teamwork is fundamental to success, and I am always eager to contribute and share my expertise with colleagues and newcomers in the field.
-1
-I hold a degree in Software Engineering from UCB/DF, which has solidified my academic foundation and prepared me to tackle complex challenges in the technology industry!
-
-Contact: contato@thalisonsilva.com.br
-</p>
-
-<hr>
-
-## Ferramentas e Tecnologias
+## My name is Thalison 
+     (Golang | Ruby | Java | Spring Boot ) 🚀
+     
 <div>
-<img src="https://skillicons.dev/icons?i=go,nodejs,ruby,java,spring,aws,mysql,docker"/>       
+  <img align="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact&langs_count=7&theme=aura"/>
+  <ul>👩‍💻 Software Enginner.</ul>
+  <ul>🎓 Postgraduate degree in software engineering.</ul>
+  <ul>🌐 Developer back end.</ul>
+  <ul>💡 Passionate about books.</ul>
+  <ul></ul>
 </div>
 
-<br>
 
-<div>       
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thalisonsilva&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact&langs_count=7&theme=aura"/>
-</div>
 
-<br>
 
-## Contatos:
-<div align="a">
-<a href="https://www.youtube.com/channel/UCEpXtNOXBkfetaNNdANeWZA" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/devthalis" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/thalism_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@thalisonsilva.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thalison-moreira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-</div>
 
 
   
