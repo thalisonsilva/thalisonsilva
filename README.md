@@ -6,7 +6,7 @@
 ###
 
 ## My name is Thalison 
-     (Golang | Ruby | Java | Spring Boot ) 🚀
+     (Java | Spring Boot| Golang | Ruby) 🚀
      
 <div>
   <img align="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalisonsilva&layout=compact&langs_count=7&theme=aura"/>
