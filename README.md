@@ -1,10 +1,5 @@
 # Hi There! 👋
 
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthalison-moreira%2F?style=linkedin&label=LinkedIn&color=%09%230000CD&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthalison-moreira%2F)
-![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white=LinkedIn&color=%09%230000CD&link=https://www.thalisonsilva.com.br/)
-![Gmail Badge](https://img.shields.io/badge/-contato@thalisonsilva.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white=LinkedIn&color=%09%230000CD&link=mailto:contato@thalisonsilva.com.br)
-###
-
 ## My name is Thalison 
      (Golang | Java | Spring Boot | Ruby)🚀 ✅
      
@@ -15,6 +10,13 @@
   <ul>🌐 Developer back end.</ul>
   <ul>💡 Passionate about books.</ul>
   <ul></ul>
+</div>
+
+<br>
+<hr>
+<div>
+<a href = "mailto:contato@thalisonsilva.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thalison-moreira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
