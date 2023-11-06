@@ -8,7 +8,6 @@
   <ul>👩‍💻 Software Enginner.</ul>
   <ul>🎓 Postgraduate degree in software engineering.</ul>
   <ul>🌐 Developer back end.</ul>
-  <ul>💡 Passionate about books.</ul>
   <ul></ul>
 </div>
 
