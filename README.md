@@ -1,7 +1,10 @@
 ##  Hi There! 👋, my name is Thalison 
 <p>Sou um desenvolvedor de software com vasta experiência em desenvolvimento back-end. Minha carreira tem sido dedicada à criação de soluções eficientes e escaláveis ​​que impulsionam a excelência tecnológica. Minha paixão pelo aprendizado contínuo me motiva a buscar constantemente novos conhecimentos e aprimorar minhas habilidades técnicas.
 
-Graduado em Engenharia de Software pela UCB/DF.</p>
+Graduado em Engenharia de Software pela UCB/DF.
+
+Email: contato@thalisonsilva.com.br</p>
+
 
 <br>
 
