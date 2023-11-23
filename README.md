@@ -29,4 +29,10 @@ Email: contato@thalisonsilva.com.br</p>
 
 <br> 
 
-
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thalisonsilva&theme=2077" width="700" height="200" alt="Marcador 1">
+    </td>
+  </tr>
+</table>
