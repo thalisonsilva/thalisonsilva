@@ -8,7 +8,7 @@ Graduated in System analysis and development from UCB/DF.
 
 ## Habilidades Técnicas: 
 
-    (Golang | Node.js | Java)
+    (Golang | Node.js | Ruby| Java)
 
 
 ## Onde me Encontrar
