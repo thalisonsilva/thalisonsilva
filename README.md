@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor de software com foco em construir soluções robustas e escaláveis no lado do back-end. Minha paixão pelo aprendizado contínuo me motiva a buscar constantemente novos conhecimentos e aprimorar minhas habilidades técnicas.
 
-Formado em Análise e Desenvolvimento de Sistemas pela UCB/DF. 
+Formado em Análise e Desenvolvimento de Sistemas pela UCB/DF.
 
 <br>
 
