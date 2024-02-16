@@ -7,7 +7,7 @@ Formado em Análise e Desenvolvimento de Sistemas pela UCB/DF.
 
 ## Habilidades Técnicas: 
 
-    (Golang | Ruby | Java | Spring boot)
+    (Golang | Ruby | Kotlin | Java | Spring boot)
 
 
 ## Onde me Encontrar
