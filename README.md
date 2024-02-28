@@ -21,7 +21,7 @@ Graduated in Systems Analysis and Development from UCB/DF.</p>
 <a href="https://www.instagram.com/thalison.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Thalison Dev-blue?color=CB2770&logo=instagram&logoColor=fff&style=flat">
 </a>
-<a href="https://open.spotify.com/user/31inmf24warzsoyrn5gwbalnxnxi?si=76316960fdf746ba" target="_blank">
+<a href="https://open.spotify.com/user/31oinu3m7mvtof4okxbpuftvgd64" target="_blank">
   <img src="https://img.shields.io/badge/Thalison Silva-blue?color=1CCC5B&logo=spotify&logoColor=fff&style=flat">
 </a>
 <a href="mailto:contato@thalisonsilva.com.br" target="_blank">
