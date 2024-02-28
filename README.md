@@ -8,6 +8,8 @@ Recently, I started my journey studying mobile development and the AWS ecosystem
 
 Graduated in Systems Analysis and Development from UCB/DF.</p>
 
+Contact: contato@thalisonsilva.com.br
+
 ## Habilidades Técnicas: 
 
     (Java | Spring boot | Golang | Ruby | Kotlin) 
