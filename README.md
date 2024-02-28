@@ -1,9 +1,12 @@
-## Olá, Sou Thalison!
+## <h1>Thalison Moreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-Sou um desenvolvedor de software com foco em construir soluções robustas e escaláveis no lado do back-end. Minha paixão pelo aprendizado contínuo me motiva a buscar constantemente novos conhecimentos e aprimorar minhas habilidades técnicas.
+<p>I'm a back-end and mobile developer.</p>
 
-Formado em Análise e Desenvolvimento de Sistemas pela UCB/DF. 
-<br>
+<p>I have extensive experience in developing scalable solutions using different programming languages, such as Java with Spring Boot and GoLang on the back end and Kotlin for mobile. My ability to adapt allows me to work efficiently in diverse technical environments, overcoming challenges and delivering exceptional results.
+
+Recently, I started my journey studying mobile development and the AWS ecosystem, expanding my knowledge and skills in the area.
+
+Graduated in Systems Analysis and Development from UCB/DF.</p>
 
 ## Habilidades Técnicas: 
 
@@ -12,5 +15,16 @@ Formado em Análise e Desenvolvimento de Sistemas pela UCB/DF.
 
 ## Onde me Encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/thalison-moreira/)
-- <a href="mailto:contato@thalisonsilva.com.br">Contato via e-mail</a>
+<a href="https://www.linkedin.com/in/thalisonmoreira/" target="_blank">
+  <img src="https://img.shields.io/badge/Thalison Moreira-blue?logo=linkedin&style=flat">
+</a>
+<a href="https://www.instagram.com/thalison.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Thalison Dev-blue?color=CB2770&logo=instagram&logoColor=fff&style=flat">
+</a>
+<a href="https://open.spotify.com/user/31inmf24warzsoyrn5gwbalnxnxi?si=76316960fdf746ba" target="_blank">
+  <img src="https://img.shields.io/badge/Thalison Silva-blue?color=1CCC5B&logo=spotify&logoColor=fff&style=flat">
+</a>
+<a href="mailto:contato@thalisonsilva.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/Contato-blue?color=E02E23&logo=gmail&logoColor=fff&style=flat">
+</a>
+<br>
