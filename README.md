@@ -1,5 +1,6 @@
 ## <h1>Thalison Moreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
+
 <p>I'm a back-end and mobile developer.</p>
 
 <p>I have extensive experience in developing scalable solutions using different programming languages, such as Java with Spring Boot and GoLang on the back end and Kotlin for mobile. My ability to adapt allows me to work efficiently in diverse technical environments, overcoming challenges and delivering exceptional results.
