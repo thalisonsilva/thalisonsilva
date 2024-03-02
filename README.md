@@ -3,13 +3,15 @@
 
 <p>I'm a back-end and mobile developer.</p> 
 
-<p>I have extensive experience in developing scalable solutions using different programming languages, such as Java with Spring Boot and GoLang on the back end and Kotlin for mobile. My ability to adapt allows me to work efficiently in diverse technical environments, overcoming challenges and delivering exceptional results.
+<p>Throughout my professional career, I have dedicated myself to creating innovative, highly efficient and scalable solutions that drive technological excellence and generate value for the companies I work with.
+
+I have extensive experience in developing scalable solutions using different programming languages, such as Java with Spring Boot and GoLang in the back end and Ruby in web projects. My ability to adapt allows me to work efficiently in diverse technical environments, overcoming challenges and delivering exceptional results.
 
 Recently, I started my journey studying mobile development and the AWS ecosystem, expanding my knowledge and skills in the area.
 
-Graduated in Systems Analysis and Development from UCB/DF.</p>
+Graduated in Systems Analysis and Development from UCB/DF.
 
-Contact: contato@thalisonsilva.com.br
+Contact: contato@thalisonsilva.com.br</p>
 
 ## Habilidades Técnicas: 
 
