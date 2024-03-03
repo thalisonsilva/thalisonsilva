@@ -13,7 +13,7 @@ Graduated in Systems Analysis and Development from UCB/DF.
 
 Contact: contato@thalisonsilva.com.br</p>
 
-## Habilidades Técnicas: 
+## Habilidades Técnicas:   
 
     (Java | Spring boot | Golang | Ruby | Kotlin) 
 
