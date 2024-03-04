@@ -1,7 +1,7 @@
 ## <h1>Thalison Moreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 
-<p>I'm a back-end and mobile developer.</p> 
+<p>I'm a back-end and mobile developer.</p>  
 
 <p>Throughout my professional career, I have dedicated myself to creating innovative, highly efficient and scalable solutions that drive technological excellence and generate value for the companies I work with.
 
