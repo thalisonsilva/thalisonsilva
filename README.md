@@ -8,7 +8,7 @@ Throughout my professional career, I have dedicated myself to creating innovativ
 I have extensive experience in developing scalable solutions using different programming languages, such as Java with Spring Boot and GoLang in the back end, Ruby in web projects and Kotlin for mobile development. My ability to adapt allows me to work efficiently in diverse technical environments, overcoming challenges and delivering exceptional results.
 
 
-Graduated in Systems Analysis and Development from UCB/DF.</p> 
+Graduated in Systems Analysis and Development from UCB/DF.</p>  
 
 ## Habilidades Técnicas:   
 
