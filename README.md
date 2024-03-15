@@ -12,7 +12,7 @@ Graduated in Systems Analysis and Development from UCB/DF.</p>
 
 ## Habilidades Técnicas:   
 
-    (Java |  Kotlin | Spring boot | Golang) 
+    (Java | Kotlin | Spring boot | Golang) 
  
 
 ## Onde me Encontrar
