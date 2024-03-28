@@ -4,7 +4,7 @@
 <b><i>I'm a back-end and mobile developer</i></b>
 
 - Graduated in Systems Analysis and Development from UCB/DF.
-- My main languages are: Kotlin, Java, Javascript.
+- My main languages are: Java, Kotlin, Javascript.
 
 <br>
 
