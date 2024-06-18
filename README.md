@@ -4,6 +4,6 @@ I have experience in web back-end and mobile development, focusing on **Java**, 
 
 I have an emphasis on designing and developing scalable and robust projects, using advanced methodologies and cutting-edge technologies. Furthermore, I specialize in creating cross-platform mobile applications with **Kotlin** and **React Native**, following software design principles that make them more efficient and organized.
 
-Graduated in Systems Analysis and Development from UCB/DF.
+Graduated in Systems Analysis and Development from UCB/DF. 
 
 Contact: contato@thalisonsilva.com.br
