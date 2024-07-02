@@ -7,3 +7,4 @@ I have an emphasis on designing and developing scalable and robust projects, usi
 Graduated in Systems Analysis and Development from UCB/DF. 
 
 Contact: contato@thalisonsilva.com.br
+ 
