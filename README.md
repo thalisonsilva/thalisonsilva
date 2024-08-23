@@ -5,4 +5,5 @@ Minha especialização em Kotlin e Golang me permite desenvolver aplicações ro
 Além de programar, sou um entusiasta de tecnologia e estou constantemente explorando novas ferramentas e metodologias para aprimorar meu trabalho. Acredito na importância da colaboração e do aprendizado contínuo para atingir resultados excepcionais.
 
 Conheça meu portfólio: www.thalisonsilva.com.br
+
 Entre em contato pelo e-mail: contato@thalisonsilva.com.br
