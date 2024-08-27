@@ -1,9 +1,12 @@
-Sou um desenvolvedor de software apaixonado por criar soluções tecnológicas que impulsionem o crescimento e a eficiência dos negócios.
+<h1>My name is Thalison</h1>
 
-Especializado em Kotlin e Golang, tenho experiência em tecnologias como JavaScript, Spring Boot, KMP, Ktor e Angular. Desenvolvo aplicações robustas e escaláveis, incluindo soluções mobile multiplataforma com Kotlin e React Native.
+(Java | Spring Boot | Kotlin | AWS | Angular | Typescript | Javascript | Golang ) 🚀
 
 
-Conheça meu portfólio: [www.thalisonsilva.com.br](http://www.thalisonsilva.com.br)  
-Entre em contato: contato@thalisonsilva.com.br
+I am a software developer passionate about creating technological solutions that drive business growth and efficiency.
 
+Specialized in Kotlin and Java, I have experience in technologies such as JavaScript, Golang, Spring Boot, KMP, Ktor and Angular. I develop robust and scalable applications, including multiplatform mobile solutions with Kotlin and React Native.
+
+Check out my portfolio: www.thalisonsilva.com.br
+Get in touch: contato@thalisonsilva.com.br
 ---
