@@ -8,5 +8,5 @@ I am a software developer passionate about creating technological solutions that
 Specialized in Kotlin and Java, I have experience in technologies such as JavaScript, Golang, Spring Boot, KMP, Ktor and Angular. I develop robust and scalable applications, including multiplatform mobile solutions with Kotlin and React Native.
 
 Check out my portfolio: www.thalisonsilva.com.br
+
 Get in touch: contato@thalisonsilva.com.br
----
