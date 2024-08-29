@@ -1,12 +1,28 @@
-<h1>My name is Thalison</h1>
+**Thalison Silva** ‍
 
-(Java | Spring Boot | Kotlin | AWS | Angular | Typescript | Javascript | Golang ) 🚀
+**Software Developer** | **Building impactful solutions with cutting-edge technologies** 
 
+**About Me**
 
-I am a software developer passionate about creating technological solutions that drive business growth and efficiency.
+I'm Thalison Silva, a passionate software developer with a strong focus on creating innovative and efficient technological solutions that empower businesses. I possess a deep expertise in Kotlin and Java, and I'm proficient in a wide range of technologies, including JavaScript, Golang, Spring Boot, KMP, Ktor, Angular, and React Native. This allows me to tackle diverse development challenges with confidence.
 
-Specialized in Kotlin and Java, I have experience in technologies such as JavaScript, Golang, Spring Boot, KMP, Ktor and Angular. I develop robust and scalable applications, including multiplatform mobile solutions with Kotlin and React Native.
+**Skills & Technologies**
 
-Check out my portfolio: www.thalisonsilva.com.br
+* **Backend:** Java, Spring Boot, Kotlin, KMP, Ktor, Golang
+* **Frontend:** JavaScript, TypeScript, Angular
+* **Mobile Development:** Kotlin Multiplatform (KMP), React Native
+* **Cloud:** AWS
 
-Get in touch: contato@thalisonsilva.com.br
+**Highlights**
+
+* Develop robust and scalable applications that meet stringent performance and reliability requirements.
+* Design and implement solutions that optimize operational efficiency and drive business growth.
+* Possess strong problem-solving skills and a collaborative approach to development.
+* Continuously learning and staying up-to-date with the latest advancements in the tech landscape.
+
+**Let's Connect!**
+
+* **Website:** [www.thalisonsilva.com.br](www.thalisonsilva.com.br)
+* **Email:** [contato@thalisonsilva.com.br](contato@thalisonsilva.com.br)
+
+**Open-Source Contributions** .
