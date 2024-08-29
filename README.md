@@ -1,6 +1,6 @@
 **Thalison Silva** ‍
 
-**Software Developer** | **Building impactful solutions with cutting-edge technologies** 
+**Software Developer** 
 
 **About Me**
 
@@ -12,13 +12,6 @@ I'm Thalison Silva, a passionate software developer with a strong focus on creat
 * **Frontend:** JavaScript, TypeScript, Angular
 * **Mobile Development:** Kotlin Multiplatform (KMP), React Native
 * **Cloud:** AWS
-
-**Highlights**
-
-* Develop robust and scalable applications that meet stringent performance and reliability requirements.
-* Design and implement solutions that optimize operational efficiency and drive business growth.
-* Possess strong problem-solving skills and a collaborative approach to development.
-* Continuously learning and staying up-to-date with the latest advancements in the tech landscape.
 
 **Let's Connect!**
 
