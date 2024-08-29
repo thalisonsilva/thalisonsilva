@@ -25,4 +25,4 @@ I'm Thalison Silva, a passionate software developer with a strong focus on creat
 * **Website:** [www.thalisonsilva.com.br](www.thalisonsilva.com.br)
 * **Email:** [contato@thalisonsilva.com.br](contato@thalisonsilva.com.br)
 
-**Open-Source Contributions** .
+**Open-Source Contributions**
