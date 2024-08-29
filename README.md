@@ -1,6 +1,4 @@
-**Thalison Silva** ‍
-
-**Software Developer** 
+**Thalison Silva** ‍| **Software Developer** 
 
 **About Me**
 
