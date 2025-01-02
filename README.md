@@ -11,4 +11,3 @@ My portfolio reflects my technical competence and ability to develop efficient s
 * **Website:** [www.thalisonsilva.com.br](www.thalisonsilva.com.br)
 * **Email:** [contato@thalisonsilva.com.br](contato@thalisonsilva.com.br)
 
-**Open-Source Contributions**
