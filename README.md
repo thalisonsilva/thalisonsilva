@@ -1,11 +1,7 @@
-**Thalison Silva** ‍| **Software Developer** 
+Formado em Análise e Desenvolvimento de Sistemas e pós-graduando em Engenharia de Software pela UCB, iniciei minha carreira em tecnologia em 2019, quando tive a oportunidade de entrar no desenvolvimento backend e mergulhar de vez nesse universo.
 
-Sou desenvolvedor de software com foco em criar soluções modernas, escaláveis e robustas, utilizando tecnologias como Golang, Java, Kotlin, JavaScript, Angular e React Native. Tenho uma abordagem prática e estratégica, com atenção à arquitetura, performance e manutenibilidade dos sistemas.
+Desde então, venho atuando como desenvolvedor backend, trabalhando principalmente com Golang, Java e Kotlin. Ao longo desses 6 anos, participei de diversos projetos e aprofundei meus conhecimentos em sistemas escaláveis, APIs bem definidas e soluções com foco em performance e manutenibilidade.
 
-Gosto de atuar em todas as fases do desenvolvimento: desde entender o problema até entregar uma solução eficiente e bem pensada. Também tenho interesse por produto, dados e negócios, sempre buscando formas de agregar valor com tecnologia.
+Tenho familiaridade com ferramentas e tecnologias como Docker, PostgreSQL, Redis, Git, JWT e CI/CD. Sou apaixonado por tecnologia, tenho uma abordagem colaborativa e acredito que boas soluções nascem da combinação entre código limpo, propósito e trabalho em equipe.
 
-Trabalho com dedicação, gosto de aprender em equipe e estou em constante evolução, tanto no código quanto como pessoa. Acredito que boas soluções nascem da combinação entre técnica, propósito e colaboração.
-
-Se você tiver alguma dúvida em que eu possa ajudar, sinta-se à vontade para entrar em contato!!.
-
-
+Estou sempre em evolução tanto no código quanto como pessoa e aberto a conexões, trocas e novos aprendizados.
