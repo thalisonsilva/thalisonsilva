@@ -11,8 +11,7 @@
 ---
 
 <p align="center">
-  I'm passionate about technology, education, and creativity.  
-  Here you’ll find projects, tutorials, and my experiments with AI, Java, Cloud, and more :)
+  I'm passionate about technology, growth, and building real solutions. Here you'll find my projects, experiments, and studies with Golang, APIs, Kafka, Web Development, and more :)
 </p>
 
 <p align="center">
